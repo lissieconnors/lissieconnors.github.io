@@ -111,13 +111,13 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #49bf9d;
+		color: #2d2b29;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #49bf9d !important;
+			color: #2d2b29 !important;
 			text-decoration: none;
 		}
 
@@ -1765,7 +1765,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: #b2b2b2;
+		color: #2d2b29;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -1817,7 +1817,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: #f7f7f7;
+		background: #2d2b29;
 		border-radius: 0.35em;
 		border: solid 2px transparent;
 		color: inherit;
@@ -1855,7 +1855,7 @@ input, select, textarea {
 	}
 
 		select option {
-			color: #787878;
+			color: #2d2b29;
 			background: #fff;
 		}
 
