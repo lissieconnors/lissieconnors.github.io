@@ -2547,7 +2547,7 @@ input, select, textarea {
 		.button:disabled {
 			background-color: #e7e7e7 !important;
 			border-color: #e7e7e7 !important;
-			color: #b2b2b2 !important;
+			color: #c6c6c6 !important;
 			cursor: default;
 		}
 
@@ -2624,11 +2624,11 @@ input, select, textarea {
 		}
 
 		#header strong, #header b {
-			color: #D3D3D3;
+			color: #c6c6c6;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #D3D3D3;
+			color: #c6c6c6;
 		}
 
 		#header h1 {
