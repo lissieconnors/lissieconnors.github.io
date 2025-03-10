@@ -56,8 +56,8 @@ body {
 }
 
 mark {
-	background-color: transparent;
-	color: inherit;
+	background-: transparent;
+	: inherit;
 }
 
 input::-moz-focus-inner {
@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #2d2b29 !important;
+			color: #c6c6c6 !important;
 			text-decoration: none;
 		}
 
@@ -135,7 +135,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #2d2b29;
+		color: #c6c6c6;
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
